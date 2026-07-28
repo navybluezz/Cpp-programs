@@ -1,0 +1,11 @@
+//input and output program 
+#include<iostream>
+using namespace std;
+int main()
+{
+int age ;
+cout<<"Enter your age :"; //output
+cin>>age ; //input
+cout<<"My age is :"<< age ;
+return 0 ;
+}
